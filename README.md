@@ -7,6 +7,10 @@ A web-based data management system built to streamline farmer onboarding, data t
 ## 🚀 Live Demo
 👉 [Farmer Data Management Tracking System](https://farmerdatamanagement.streamlit.app/)
 
+![Demo1](Demo_screenshorts/farmer_demo_1.png)
+![Demo2](Demo_screenshorts/farmer_demo_2.png)
+![Demo3](Demo_screenshorts/farmer_demo_3.png)
+
 ---
 
 ## 📌 Features
